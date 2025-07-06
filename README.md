@@ -50,7 +50,7 @@ A complete end-to-end implementation of fine-tuning BERT for binary sentiment cl
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/imdb-sentiment-finetuning.git
+git clone https://github.com/Tanmayjoshi-3601/Imdb-sentiment-classification-using-LLMs.git
 cd imdb-sentiment-finetuning
 ```
 
